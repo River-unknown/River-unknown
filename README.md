@@ -3,7 +3,7 @@
 🚀 **Software Developer | Android (Kotlin) | Game Dev (Unity) | AI & Blockchain Enthusiast**  
 🎓 **Engineering Student @ NIT Rourkela**  
 💡 **Exploring:** Parsing, Compilers, Crypto Automation, Smart Solutions  
-🔧 **Tech Stack:** Kotlin | C# | Flask | Flutter | Langraph | Copilot Kit | Unity Game Engine  
+🔧 **Tech Stack:** Kotlin | C# | Flask | Flutter | Langraph | Copilot Kit | Unity Game Engine | Spring Boot
 
 ---
 
